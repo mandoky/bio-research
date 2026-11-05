@@ -1,0 +1,15 @@
+# Data / experiment folders
+Yale_DATA/
+MALARIA/
+
+# Copyrighted paper PDFs (keep own notes, exclude journal PDFs)
+01_paper/*.pdf
+01_paper/ORF8_paper/*.pdf
+
+# Office lock files
+~$*
+
+# OS / drive artifacts
+System Volume Information/
+Thumbs.db
+desktop.ini
